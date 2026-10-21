@@ -1,0 +1,1 @@
+"""MiniAssist document processing."""

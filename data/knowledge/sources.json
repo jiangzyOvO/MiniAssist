@@ -1,0 +1,93 @@
+[
+  {
+    "source_id": "S1",
+    "title": "DJI Mini 4 Pro 用户手册（简体中文）",
+    "version": "v1.4，封面 2024.06；下载页日期 2024-06-27",
+    "url": "https://terra-1-g.djicdn.com/6189933d30024fc1b331bffe4fe41837/mini-4-pro/UM/DJI_Mini_4_Pro_User_Manual_chs.pdf",
+    "file": "mini_4_pro_user_manual_current_chs.pdf",
+    "pages": 111,
+    "notes": "本批基础操作的主要来源。文档版本不是飞行器固件版本；遥控器新增支持需结合 S2。本文引用的页码与 PDF 物理页序一致。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 28620040,
+    "sha256": "d6078a83c58a9e02826cc5c41fd921eee780e7845450af90b542a62bd474f525"
+  },
+  {
+    "source_id": "S2",
+    "title": "DJI Mini 4 Pro 发布记录（中文）",
+    "version": "本地快照最新一条记录日期为 2025-11-05，共 10 页历史记录",
+    "url": "https://dl.djicdn.com/downloads/DJI_Mini_4_Pro/20251105/DJI_Mini_4_Pro_Release_Notes_CN.pdf",
+    "file": "mini_4_pro_release_notes_cn.pdf",
+    "pages": 10,
+    "notes": "逐条区分发布日期、飞行器、遥控器和 App 版本。发布记录同列的版本不能自动解释为所有组合的最低兼容版本。不能据此承诺未来更新。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 148706,
+    "sha256": "503e25d9d7472443c1227fa7a2eecc6b8182ceeb14a810507545c43aa71a37ce"
+  },
+  {
+    "source_id": "S3",
+    "title": "消费级航拍飞行器和飞行眼镜适配说明（适用于 DJI 飞行眼镜 3）",
+    "version": "v1.0，2024.04；下载页日期 2024-04-11",
+    "url": "https://dl.djicdn.com/downloads/Compatibility_Information_Goggles_3/20240411/Consumer_Drones_and_Goggles_Compatibility_Information(for_Goggles_3)_CHS.pdf",
+    "file": "goggles_3_compatibility_chs.pdf",
+    "pages": 4,
+    "notes": "第 2 页是跨设备版本表，第 4 页是按机型区分的功能限制。已渲染核对表格行列；不得将 DJI Air 3 的版本要求移用至 Mini 4 Pro。相关答案限定到此说明的版本。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 376105,
+    "sha256": "bb594839ca6e20d1e514e8dead2a24bbcff8d53228b380ccd7eb50999e6a5e80"
+  },
+  {
+    "source_id": "S4",
+    "title": "DJI Mini 4 Pro 快速入门指南（DJI RC 2，多语言含简体中文）",
+    "version": "v1.0；下载页日期 2023-09-25",
+    "url": "https://dl.djicdn.com/downloads/DJI_Mini_4_Pro/DJI_Mini_4_Pro_DJI_RC_2_Quick_Start_Guide.pdf",
+    "file": "mini_4_pro_rc_2_quick_start.pdf",
+    "pages": 10,
+    "notes": "以 PDF 物理页序定位。第 3 页含首次充电激活的中文说明，第 7 页含开关机按键的中文说明。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 3521957,
+    "sha256": "ebd25b7d92c7188b70501a5ee6e0fe20e08951c7275e105f8a2cacedf1cd0c33"
+  },
+  {
+    "source_id": "S5",
+    "title": "DJI Mini 4 Pro 中文技术支持页（规格与 FAQ）",
+    "version": "动态网页，未标统一修订日期；以本次本地中文快照为准",
+    "url": "https://www.dji.com/cn/support/product/mini-4-pro",
+    "file": "support.html",
+    "pages": null,
+    "notes": "浏览工具可能转至英文地区，本地下载取得中文页面。遥控器仅两款的条目与 S2 后续新增支持记录冲突；固件电量条目与 S1 升级要求口径不同。不能把整个页面视为同一时间生效。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 703919,
+    "sha256": "b42f7e53f7026968a7f9bb5273cbe5db245877a1bdf0f643ba5a1d4ad40ce70c"
+  },
+  {
+    "source_id": "S6",
+    "title": "DJI Mini 4 Pro 中文官方下载目录",
+    "version": "动态网页，本批用于发现文件和核对目录发布日期",
+    "url": "https://www.dji.com/cn/mini-4-pro/downloads",
+    "file": "downloads.html",
+    "pages": null,
+    "notes": "是文件发现入口，不替代手册、兼容说明或发布记录正文。网页中的最新软件版本与历史固件记录所列版本含义不同。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 115924,
+    "sha256": "c621390425678ada71d7ea1403c458c0946ad66bddbff9274c2fb1b0ce29bac9"
+  },
+  {
+    "source_id": "S0",
+    "title": "用户最初提供链接指向的 DJI Mini 4 Pro 中文用户手册",
+    "version": "v1.0，封面 2023.09",
+    "url": "https://dl.djicdn.com/downloads/DJI_Mini_4_Pro/DJI_Mini_4_Pro_User_Manual_CHS.pdf",
+    "file": "mini_4_pro_user_manual_chs.pdf",
+    "pages": 110,
+    "notes": "保留作历史核对；本批问答不以该旧版作为主要依据。不要与 S1 混入同一无版本标识的默认索引。",
+    "snapshot_date": "2026-10-20",
+    "snapshot_timezone": "Asia/Shanghai",
+    "size_bytes": 29206476,
+    "sha256": "1514d91a3b618fff67c846414b54bd66e521098a56b01e02038d09e75110869e"
+  }
+]

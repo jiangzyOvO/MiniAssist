@@ -1,0 +1,22 @@
+{
+  "index": "miniassist-demo-v1",
+  "chunks": "data/knowledge/chunks.jsonl",
+  "sources": "data/knowledge/sources.json",
+  "vectors": ".cache/document_vectors.npz",
+  "model_cache": ".cache/models",
+  "vectors_sha256": "7998c369e55034bebfeac632bcab6413245c305dcf4587a2eb0c92fcea9ceca1",
+  "count": 503,
+  "embedding": {
+    "model_id": "BAAI/bge-small-zh-v1.5",
+    "revision": "7999e1d3359715c523056ef9478215996d62a620",
+    "query_instruction": "为这个句子生成表示以用于检索相关文章：",
+    "dimensions": 512,
+    "normalize": true
+  },
+  "alpha": 0.9,
+  "rrf_k": 60,
+  "candidates": 50,
+  "top_k": 5,
+  "chunks_sha256": "aa0d6e45c28ec54ee86258dd3899be8e3ca0a5fce27ca3869120ab821667cd0f",
+  "sources_sha256": "15aca13db7647c2303962b13d50f3a9cbc1499e122d807ddd732ceef7f6df401"
+}

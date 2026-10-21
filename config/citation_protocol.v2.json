@@ -1,0 +1,5 @@
+{
+  "version": "table_category_context_v2",
+  "table_rows": "data/knowledge/table_rows.json",
+  "table_rows_sha256": "0224fcd53f934716b68e2a396344bbdecedee03350cabecce47eb4dc474aa5dd"
+}
